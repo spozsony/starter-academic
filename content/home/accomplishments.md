@@ -31,16 +31,6 @@ date_format = "Jan 2006"
   description = "Recognizing the appliation of statistics, machine learning, and visualization to LIBS projects"
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "COVID-19 Contact Tracing"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/79L69XMR5RMT"
-  date_start = "2020-08-01"
-  date_end = ""
-  description = ""
-
-[[item]]
   organization = "Federation of Analystical Chemistry and Spectrsoscopy Society"
   organization_url = "https://www.facss.org/SAS-STUDENT-POSTER-AWARDS-AND-FACSS-POSTER-AWARDS"
   title = "FACSS Poster Award"
@@ -50,6 +40,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Bridging the Gap: Integrating Statistical Modeling and Machine Learning Methods to Better Classify and Visualize LIBS Spectra Data"
 
+[[item]]
+  organization = "Society of Applied Spectroscopy"
+  organization_url = "https://www.s-a-s.org/about-1/"
+  title = "SAS Student Travel Grant Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-10-13"
+  date_end = ""
+  description = "Bridging the Gap: Integrating Statistical Modeling and Machine Learning Methods to Better Classify and Visualize LIBS Spectra Data"
+  
 [[item]]
   organization = "Macalester College"
   organization_url = "https://www.macalester.edu/theolinricehub/research-opportunities/experientialcollaborative/taylor/"
@@ -61,8 +61,15 @@ date_format = "Jan 2006"
   description = "Application of Computational Models and PAPSS Gene Expression to Understand the Structural and Functional Consequences of the PAPSS2(b) DNA Mutation"
 
 
-
-
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "COVID-19 Contact Tracing"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/79L69XMR5RMT"
+  date_start = "2020-08-01"
+  date_end = ""
+  description = ""
 
 
 
