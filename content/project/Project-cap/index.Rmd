@@ -1,0 +1,52 @@
+---
+title: "Adolescent Vaping"
+external_link: ''
+date: '2016-04-27T00:00:00Z'
+slides: ''
+summary: A look into Minnesota's Adolescent E-Cigarette Usage
+tags: ''
+image:
+  caption: Capstone Project
+  focal_point: Smart
+---
+
+
+The project that best highlights my interests is my capstone, a yearlong senior research project that was done in collaboration with two additional Macalester Senior students and the Minnesota Department of Health. My capstone combines spatial and repeated measures methods to analyze parent-adolescent relationships to be able to predict adolescent e-cigarette usage. Given the magnitude of the epidemic, my research is rather preliminary, but it did still illuminate the need to rethink parental intervention because it can increase the chances of adolescent smoking on the individual level. This, by far, has been one of my favorite projects as it has allowed me to work extensively with R software, utilize problem-based learning, and make a direct contribution to my field of study within my own community.
+
+To go more in-depth, in the past 5 years, e-cigarette use has risen sharply among teens and adults, despite significant negative health risks. According to data from the National Youth Tobacco Survey, the prevalence rate of e-cigarette usage among high school students equates to roughly 2.4 million high school students that have used an e-cigarette at least once in the past 30 days (Health, Services, and others 2016). Researchers have identified three key themes and risk factors among e-cigarette users: male gender, socioeconomic background, and weak social and parental support. We decided to analyze the third risk factor which has fewer devoted studies and asked the question; Do adolescents in Minnesota who have positive parental and at-home environments have a lower risk of engaging with e-cigarettes and vaping products, as compared to adolescents who have negative parental and at-home environments? To answer this question, we looked to gain a better understanding of adolescent e-cigarette and vaping usage in Minnesota at an individual level and a county-level taking into account spatial correlation. For our analysis, we utilized the 2019 Minnesota Student Survey (MSS) which contained around 170,000 entries and these seven variables: smoking status, sex, age, perceived harm of smoking, perceived parental care, parental perception of e-cigarette usage, and parental alcohol usage. 
+
+For our spatial data, we chose to utilize a spatial autoregressive model (SAR model), instead of a point pattern/process. We did this because our data cannot assume that the occurrence or non-occurrence of a point at a location is random because existing literature and evidence suggests that the networks and neighborhoods an individual lives in highly influences their risk of vaping. Also, we utilized repeated measures methods specifically, marginal models, to better understand the effects of smoking on the individual level. These were compared to our spatial results as a way to see whether individual and county-level trends differed.
+
+
+**Our key findings are as follows:**
+
+\
+**Spatial Method:** 
+\
+
+- The counties with a greater proportion of male residents had a greater proportion of residents who vape, after accounting for other factors.
+\
+
+- The counties with a greater proportion of respondents who indicated their parents cared little about them had a greater proportion of respondents who vape, after accounting for other factors.
+\
+
+- The counties with a greater proportion of respondents who indicated they lived with someone who “drank too much” had a greater proportion of respondents who vape, after accounting for other factors.
+
+\
+
+**Repeated Measures Method:** 
+\
+
+All of our identified risk factors were statistically significant and the better highlight their effects here are two scenarios: 
+\
+
+1. *Scenario A:* Our person identifies as Male, is aged 18 and perceives e-cigarettes to be of low risk. In addition, they perceive their parental care to be low and they indicated in the survey that they perceived that someone in their household drank too much alcohol therefore, our model would say that they have a 60% higher chance of engaging with e-cigarette products.  
+\
+2. *Scenario B:* Our person identifies as Male, is aged 18 and perceives e-cigarettes to be of high risk. In addition, they perceive their parental care to be high and indicated that no one within their household consumed alcohol, therefore, our model would say that they have a 37% chance of engaging with these products vs. the original 60%. 
+
+**Overall Summary:** 
+
+In regards to our research question, the answer is...Yes! Adolescents who have perceived negative parental relationships do seem to have a higher risk of engaging with e-cigarettes. We also found that the risk factors we identified were statistically significant on the county and individual level. Importantly, we found that the interaction between male sex and low parent care has a *positive* effect on smoking at the individual level, in contrast to the results from the county-aggregated data. Meaning that this individual risk factor is being overlooked when officials are only focusing on county-level data...this is an important finding for those involved in school-level interventions!
+
+
+If you are interested in learning more, you can find our final paper [HERE](CapstoneReport.pdf) and can check out my presentation [HERE](Capstone.pdf).
