@@ -61,15 +61,15 @@ date_format = "Jan 2006"
   description = "Application of Computational Models and PAPSS Gene Expression to Understand the Structural and Functional Consequences of the PAPSS2(b) DNA Mutation"
 
 
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "COVID-19 Contact Tracing"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/79L69XMR5RMT"
-  date_start = "2020-08-01"
-  date_end = ""
-  description = ""
+# [[item]]
+#   organization = "Coursera"
+#   organization_url = "https://www.coursera.org"
+#   title = "COVID-19 Contact Tracing"
+#   url = ""
+#   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/79L69XMR5RMT"
+#   date_start = "2020-08-01"
+#   date_end = ""
+#   description = ""
 
 
 
