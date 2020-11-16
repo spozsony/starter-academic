@@ -21,7 +21,6 @@ interests:
 - Bayesian Modeling and Inference
 - Longitudinal & Correlated Data Analysis
 - Statistical Genetics & Precision Medicine 
-- Hierarchical Bayesian modeling & Classification 
 
 education:
   courses:
