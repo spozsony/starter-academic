@@ -1,14 +1,12 @@
 ---
 title: "Naive Bayes"
-external_link: ''
-date: '2016-04-27T00:00:00Z'
-slides: ''
-summary: Don’t be naive, look out these models to see if you need to pack an umbrella
-  tomorrow.
-tags: ''
 image:
   caption: Posterior Prediction Results
   focal_point: Smart
+date: ''
+tags: Demo
+summary: Don’t be naive, look out these models to see if you need to pack an umbrella
+  tomorrow.
 ---
 
 For this mini-project, I used dated obtained from the Australian Commonwealth Bureau of Meteorology to predict if it will “rain tomorrow” in Australia. Out of all the variables within the dataset I chose to focus on if it rained or not today, the humidity at 9 am, and the humidity at 3 pm. That said, using Naive Bayes tools I tried predicting if it would rain in Australia tomorrow based on the fact that it did rain today, the humidity at 9 am was around 60, and humidity around 3 pm was 40. 
