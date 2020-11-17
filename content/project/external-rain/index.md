@@ -1,5 +1,5 @@
 ---
-title: He Said What Now?!
+title: Naive Bayes
 summary: Don’t be naive, look out these models to see if you need to pack an umbrella
   tomorrow
 tags:
