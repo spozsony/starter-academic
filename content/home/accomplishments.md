@@ -40,15 +40,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Bridging the Gap: Integrating Statistical Modeling and Machine Learning Methods to Better Classify and Visualize LIBS Spectra Data"
 
-[[item]]
-  organization = "Society of Applied Spectroscopy"
-  organization_url = "https://www.s-a-s.org/about-1/"
-  title = "SAS Student Travel Grant Award"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-10-13"
-  date_end = ""
-  description = "Bridging the Gap: Integrating Statistical Modeling and Machine Learning Methods to Better Classify and Visualize LIBS Spectra Data"
   
 [[item]]
   organization = "Macalester College"
