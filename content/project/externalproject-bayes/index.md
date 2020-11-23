@@ -35,8 +35,7 @@ Thus, what our model is essentially saying is that "China Virus" interest is a l
 
 
 
-
-You can find a draft of our final report which includes all our models and figures [HERE](Final-Draft.html).
+Check out the draft of our [final report](Final-Draft.html) which includes all our models and figures.
 
 
 

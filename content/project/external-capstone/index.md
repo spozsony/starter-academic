@@ -54,4 +54,5 @@ All of our identified risk factors were statistically significant and the better
 In regards to our research question, the answer is...Yes! Adolescents who have perceived negative parental relationships do seem to have a higher risk of engaging with e-cigarettes. We also found that the risk factors we identified were statistically significant on the county and individual level. Importantly, we found that the interaction between male sex and low parent care has a *positive* effect on smoking at the individual level, in contrast to the results from the county-aggregated data. Meaning that this individual risk factor is being overlooked when officials are only focusing on county-level data...this is an important finding for those involved in school-level interventions!
 
 
-If you are interested in learning more, you can find our final paper [HERE](CapstoneReport.pdf) and can check out my presentation [HERE](Capstone.pdf).
+Check out my [final paper](CapstoneReport.pdf) and [presentation](Capstone.pdf) to learn more. 
+

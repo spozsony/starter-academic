@@ -16,4 +16,4 @@ Due to correlation involved with candidates’ repeated campaign runs, I was una
 
 What I found is that candidates who have more givers and are more moderate have a leg up on their competitors with regards to fundraising. Furthermore, candidates who have tougher campaigns ahead of them, or more specifically, candidates who achieve 50% or fewer of the general election votes, appear to rely very heavily on receipts in order to achieve higher percentages of the votes in the general election.Unfortunately, I was unable to observe the effects of gender on campaign funding due to the low percentage of women in our campaign data, but it is an important variable that I hope to look into later on!
 
-You can find a draft of the report [HERE](LongitudinalReport.pdf).
+Check out my [report](LongitudinalReport.pdf) to learn more about the methods used. 
