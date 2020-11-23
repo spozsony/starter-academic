@@ -9,8 +9,13 @@
   weight = 10
 
 [[main]]
-  name = "CV"
-  url = "#custom"
+  name = "Projects"
+  url = "#portfolio"
+  weight = 15
+
+[[main]]
+  name = "Accomplishments"
+  url = "#accomplishments"
   weight = 20
 
 [[main]]
@@ -19,14 +24,9 @@
   weight = 30
 
 [[main]]
-  name = "Accomplishments"
-  url = "#accomplishments"
+  name = "CV"
+  url = "#custom"
   weight = 40
-
-[[main]]
-  name = "Projects"
-  url = "#portfolio"
-  weight = 15
 
 [[main]]
   name = "Contact"
