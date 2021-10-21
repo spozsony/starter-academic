@@ -25,12 +25,12 @@ interests:
 
 education:
   courses:
-  - course: Macalester College, BA Applied Mathematics & Statistics
-    institution: Bayesian Statistics, Statistical Machine Learning, Correlated Data, Causal Inference, Probability, Epidemiology, International Public Health, Community Health & Psychology
-    year: 2020
   - course: Duke University, Master of Biostatistics
     institution: Statistics Theory & Methods, Applied Biostatistics Methods, Introduction to Practice of Biostatistics, Statistical Programming
     year: 2023
+  - course: Macalester College, BA Applied Mathematics & Statistics
+    institution: Bayesian Statistics, Statistical Machine Learning, Correlated Data, Causal Inference, Probability, Epidemiology, International Public Health, Community Health & Psychology
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
