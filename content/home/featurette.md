@@ -45,6 +45,11 @@ subtitle = ""
   name = "Microsoft Packages"
   description = "Experienced In"
   
+   [[feature]]
+  icon = "desktop"
+  icon_pack = "fas"
+  name = "SAS"
+  description = "Intermediate Research Proficiency"
 
   
   
