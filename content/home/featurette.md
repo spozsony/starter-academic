@@ -33,11 +33,11 @@ subtitle = ""
   name = "Data Science"
   description = "Concentration"
 
-   [[feature]]
-  icon = "desktop"
-  icon_pack = "fas"
-  name = "SAS"
-  description = "Intermediate Research Proficiency"
+  [[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = "Advanced Research Proficiency"
   
   [[feature]]
   icon = "microsoft"
@@ -45,12 +45,11 @@ subtitle = ""
   name = "Microsoft Packages"
   description = "Experienced In"
   
-  [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "Advanced Research Proficiency"
-
+   [[feature]]
+  icon = "desktop"
+  icon_pack = "fas"
+  name = "SAS"
+  description = "Intermediate Research Proficiency"
 
   
   
