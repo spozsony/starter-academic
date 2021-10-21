@@ -15,4 +15,4 @@ weight = 25
 
 +++
 
-My CV can be found [HERE](cv/Cv_Pozsonyiova.pdf). (Last updated: November 11, 2020)
+My CV can be found [HERE](cv/Cv_Pozsonyiova.pdf). (Last updated: October 20, 2021)
