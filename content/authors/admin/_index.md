@@ -19,14 +19,18 @@ bio:
 interests:
 - Machine Learning 
 - Bayesian Modeling and Inference
+- Women's Health/Health Disparities
 - Longitudinal & Correlated Data Analysis
-- Statistical Genetics & Precision Medicine 
+
 
 education:
   courses:
-  - course: BA in Applied Mathematics & Statistics
+  - course: Macalester College, BA in Applied Mathematics & Statistics
     institution: Bayesian Statistics, Statistical Machine Learning, Correlated Data, Causal Inference, Probability, Epidemiology, International Public Health, Community Health & Psychology
     year: 2020
+  - course: Duke University, Master of Biostatistics
+    institution: 
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,6 +68,6 @@ highlight_name: false
 #- Visitors
 ---
 
-Sofia Pozsonyiova recently graduated from Macalester College with a BA in Applied Mathematics and Statistics with a focus in Community and Global Health. Sofia is now a member of Mayo Clinic’s Division of Biomedical Statistics and Informatics serving as a Statistical Program Analyst where she specializes in Computational Genomics and aids the Genetics of Addiction Lab with their on-going Alcohol Use Disorder Study. 
+Sofia Pozsonyiova graduated from Macalester College in 2020 with a BA in Applied Mathematics and Statistics with a focus in Community and Global Health.Since then Sofia has been a member of Mayo Clinic's Division of Biomedical Statistics and Informatics serving as a Statistical Program Analyst where she aids the Genetics of Addiction Lab with their on-going Alcohol Use Disorder Study. 
 
-An overarching goal of her research is to optimize and improve the patient experience by using statistical methodology to help improve the overall detection and diagnosis process.  When Sofia is not thinking about statistics, you can find her rock climbing, backpacking, or cooking up a storm in the kitchen! 
+Sofia would describe herself as a leader of change who brings innovative approaches to research through leveraging statistical methodology and creative problem-solving with the ultimate goal to make a tangible impact on patient care. She is a published author and presenter with experience in statistical research ranging from genome-wide association studies to clinical trials.When Sofia is not thinking about statistics, you can find her behind a ceramic's wheel, hiking, or cooking up a storm in the kitchen! 
