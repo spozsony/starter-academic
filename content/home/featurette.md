@@ -46,10 +46,10 @@ subtitle = ""
   description = "Experienced In"
   
    [[feature]]
-  icon = "python"
+  icon = "sas"
   icon_pack = "fab"
-  name = "Python"
-  description = "Research Proficiency"
+  name = "SAS"
+  description = "Intermediate Research Proficiency"
 
   
   
