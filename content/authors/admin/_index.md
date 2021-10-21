@@ -6,11 +6,11 @@ title: Sofia Pozsonyiova
 superuser: true
 
 # Role/position
-role: Recent College Graduate 
+role: Candidate for Master of Biostatistics  
 
 # Organizations/Affiliations
 organizations:
-- name: Macalester College
+- name: Duke University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
